@@ -1,0 +1,11 @@
+/pvp enemy_vid 0 = Normal Duel.
+
+/pvp enemy_vid 1 = Advance Duel.
+
+
+Example :
+
+		vid = player.GetTargetVID()
+		net.SendChatPacket("/pvp %d 0" % (vid)) // 1
+
+

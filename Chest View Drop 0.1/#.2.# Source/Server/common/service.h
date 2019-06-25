@@ -1,0 +1,1 @@
+#define ENABLE_SHOW_CHEST_DROP

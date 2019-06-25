@@ -1,0 +1,12 @@
+CHANNEL	Canal
+CHANNELING_CANNOT_LOGOUT	Nu poþi reveni la ecranul de login.
+CHANNEL_EMPTY_SERVER	Niciun server
+CHANNEL_NORMAL	Canal %d
+CHANNEL_NOTIFY_FULL	Acest canal este plin! Alege te rog altul.
+CHANNEL_NOT_FIND_INFO	Nici o informaþie gãsitã via Canal.
+CHANNEL_PVP	Duel liber
+CHANNEL_SELECT_CHANNEL	Alege canalul
+CHANNEL_SELECT_REGION	Selecteazã regiunea.
+CHANNEL_SELECT_SERVER	Alege serverul
+CHANNEL_TEST_SERVER	Testeazã serverul
+CHANNEL_TEST_SERVER_ADDR	Test %s:%d
